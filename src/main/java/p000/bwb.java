@@ -1,0 +1,11 @@
+package p000;
+
+import android.os.IBinder;
+
+/* renamed from: bwb */
+/* compiled from: PG */
+public final class bwb extends aio implements bwc {
+    public bwb(IBinder iBinder) {
+        super(iBinder, "com.google.android.gms.phenotype.internal.IPhenotypeService");
+    }
+}
