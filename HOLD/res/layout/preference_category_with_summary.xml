@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingTop="@dimen/preference_category_padding_top" android:paddingBottom="@dimen/preference_category_padding_bottom" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/lb_preference_item_padding_start" android:paddingEnd="@dimen/lb_preference_item_padding_end"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceListItemSmall" android:id="@android:id/title" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/preference_category_title_margin_bottom" />
+    <TextView android:textAppearance="?android:textAppearanceListItemSecondary" android:id="@android:id/summary" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

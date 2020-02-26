@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="app_banner_focused_scale">115.49988%</fraction>
+    <fraction name="channel_action_button_focused_scale">125.0%</fraction>
+    <fraction name="channel_logo_focused_scale">166.66565%</fraction>
+    <fraction name="home_app_banner_focused_scale">137.99744%</fraction>
+    <fraction name="home_background_image_scrim_midpoint_coordinate">50.0%</fraction>
+    <fraction name="home_configure_channels_button_focused_scale">109.99756%</fraction>
+    <fraction name="lb_search_bar_speech_orb_max_level_zoom">143.9972%</fraction>
+    <fraction name="lb_search_orb_focused_zoom">119.99817%</fraction>
+    <fraction name="lb_view_active_level">0.0%</fraction>
+    <fraction name="lb_view_dimmed_level">60.000004%</fraction>
+    <fraction name="program_focused_scale">117.49878%</fraction>
+    <fraction name="program_logo_dimmer_center_x">29.999996%</fraction>
+    <fraction name="sponsored_program_focused_scale">139.99939%</fraction>
+    <fraction name="store_button_focused_scale">110.998535%</fraction>
+    <fraction name="top_row_item_focused_zoom">119.99817%</fraction>
+    <fraction name="watch_next_info_card_content_container_focused_scale">104.99878%</fraction>
+    <item type="fraction" name="APKTOOL_DUMMY_6">false</item>
+    <item type="fraction" name="APKTOOL_DUMMY_7">false</item>
+    <item type="fraction" name="APKTOOL_DUMMY_8">false</item>
+    <item type="fraction" name="APKTOOL_DUMMY_9">false</item>
+    <item type="fraction" name="APKTOOL_DUMMY_a">false</item>
+    <item type="fraction" name="APKTOOL_DUMMY_b">false</item>
+</resources>
